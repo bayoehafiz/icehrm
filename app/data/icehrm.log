@@ -1,0 +1,99 @@
+[29-Oct-2018 16:41:09 Asia/Colombo] PHP Fatal error:  Uncaught Error: Class 'Leaves\Common\Model\HoliDay' not found in /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/src/TimeSheets/User/Api/TimeSheetsActionManager.php:218
+Stack trace:
+#0 /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/service.php(160): TimeSheets\User\Api\TimeSheetsActionManager->getEmployeeTimeEntries(Object(stdClass))
+#1 /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/app/service.php(3): include('/Users/bayoe/Pr...')
+#2 {main}
+  thrown in /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/src/TimeSheets/User/Api/TimeSheetsActionManager.php on line 218
+[2018-10-29 16:41:09] Ice Hrm.INFO:  [] []
+[29-Oct-2018 16:41:09 Asia/Colombo] PHP Fatal error:  Uncaught Error: Class 'Leaves\Common\Model\HoliDay' not found in /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/src/TimeSheets/User/Api/TimeSheetsActionManager.php:218
+Stack trace:
+#0 /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/service.php(160): TimeSheets\User\Api\TimeSheetsActionManager->getEmployeeTimeEntries(Object(stdClass))
+#1 /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/app/service.php(3): include('/Users/bayoe/Pr...')
+#2 {main}
+  thrown in /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/src/TimeSheets/User/Api/TimeSheetsActionManager.php on line 218
+[2018-10-29 16:41:09] Ice Hrm.INFO:  [] []
+[29-Oct-2018 16:41:09 Asia/Colombo] PHP Fatal error:  Uncaught Error: Class 'Leaves\Common\Model\HoliDay' not found in /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/src/TimeSheets/User/Api/TimeSheetsActionManager.php:218
+Stack trace:
+#0 /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/service.php(160): TimeSheets\User\Api\TimeSheetsActionManager->getEmployeeTimeEntries(Object(stdClass))
+#1 /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/app/service.php(3): include('/Users/bayoe/Pr...')
+#2 {main}
+  thrown in /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/src/TimeSheets/User/Api/TimeSheetsActionManager.php on line 218
+[2018-10-29 16:41:52] Ice Hrm.INFO:  [] []
+[2018-10-29 16:41:52] Ice Hrm.INFO:  [] []
+[29-Oct-2018 16:41:52 Asia/Colombo] PHP Fatal error:  Uncaught Error: Class 'Leaves\Common\Model\HoliDay' not found in /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/src/TimeSheets/User/Api/TimeSheetsActionManager.php:218
+Stack trace:
+#0 /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/service.php(160): TimeSheets\User\Api\TimeSheetsActionManager->getEmployeeTimeEntries(Object(stdClass))
+#1 /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/app/service.php(3): include('/Users/bayoe/Pr...')
+#2 {main}
+  thrown in /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/src/TimeSheets/User/Api/TimeSheetsActionManager.php on line 218
+[2018-10-29 16:41:53] Ice Hrm.INFO:  [] []
+[29-Oct-2018 16:41:53 Asia/Colombo] PHP Fatal error:  Uncaught Error: Class 'Leaves\Common\Model\HoliDay' not found in /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/src/TimeSheets/User/Api/TimeSheetsActionManager.php:218
+Stack trace:
+#0 /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/service.php(160): TimeSheets\User\Api\TimeSheetsActionManager->getEmployeeTimeEntries(Object(stdClass))
+#1 /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/app/service.php(3): include('/Users/bayoe/Pr...')
+#2 {main}
+  thrown in /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/src/TimeSheets/User/Api/TimeSheetsActionManager.php on line 218
+[2018-10-29 16:41:53] Ice Hrm.INFO:  [] []
+[29-Oct-2018 16:41:53 Asia/Colombo] PHP Fatal error:  Uncaught Error: Class 'Leaves\Common\Model\HoliDay' not found in /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/src/TimeSheets/User/Api/TimeSheetsActionManager.php:218
+Stack trace:
+#0 /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/service.php(160): TimeSheets\User\Api\TimeSheetsActionManager->getEmployeeTimeEntries(Object(stdClass))
+#1 /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/app/service.php(3): include('/Users/bayoe/Pr...')
+#2 {main}
+  thrown in /Users/bayoe/Projects/DEMO/icehrm_v24.0.0.OS/core/src/TimeSheets/User/Api/TimeSheetsActionManager.php on line 218
+[2018-10-29 16:55:10] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:55:22] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:56:12] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:56:17] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:56:21] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:56:26] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:56:36] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:56:42] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:56:57] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:57:02] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:57:06] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:57:14] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:57:19] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:57:24] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:57:35] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:57:39] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:57:50] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:57:57] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:58:19] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 16:58:27] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:02:31] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:02:42] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:02:57] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:03:23] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:03:35] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:03:53] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:04:14] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:04:51] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:04:59] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:05:10] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:05:34] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:05:46] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:06:01] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:06:16] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:06:26] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:06:44] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:06:50] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:07:17] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:07:38] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:07:45] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:08:07] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:08:21] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:08:31] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:08:52] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:09:03] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:09:24] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:09:33] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:09:55] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:10:04] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:10:27] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:10:37] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:10:59] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:11:09] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:11:31] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:11:53] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:12:10] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 17:12:27] Ice Hrm.ERROR: Custom:[] [] []

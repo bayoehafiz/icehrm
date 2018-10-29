@@ -1,0 +1,1905 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 18.0\n"
+"Report-Msgid-Bugs-To: https://icehrm.com\n"
+"Last-Translator: Bayu Hafissa\n"
+"Language-Team: IceHrm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-03-05T05:26:33+05:30\n"
+"PO-Revision-Date: 2018-03-05T05:26:33+05:30\n"
+"Language: Bahasa Indonesia\n"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Done"
+msgstr "Selesai"
+
+msgid "Clocked In Employees"
+msgstr "Karyawan yang telah absen"
+
+msgid "Candidates"
+msgstr "Kandidat"
+
+msgid "View Employees"
+msgstr "Lihat Karyawan"
+
+msgid "Add a New Employee"
+msgstr "Tambah Karyawan Baru"
+
+msgid "Leave Calendar"
+msgstr "Tutup Kalender"
+
+msgid "Manage Client/Projects"
+msgstr "Atur Klien/Project"
+
+msgid "Home"
+msgstr "Beranda"
+
+msgid "Quick Access"
+msgstr "Akses Cepat"
+
+msgid "Switch"
+msgstr "Pindah"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Sign out"
+msgstr "Keluar"
+
+msgid "Help"
+msgstr "Bantuan"
+
+msgid "About"
+msgstr "Tentang"
+
+msgid "Version"
+msgstr "Versi"
+
+msgid "Release Date"
+msgstr "Tanggal Rilis"
+
+msgid "Logged In"
+msgstr "Logged In"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Company Structure"
+msgstr "Struktur Perusahaan"
+
+msgid "Job Details Setup"
+msgstr "Atur Detail Pekerjaan"
+
+msgid "Qualifications Setup"
+msgstr "Atur Kualifikasi"
+
+msgid "Training Setup"
+msgstr "Atur Pelatihan"
+
+msgid "Projects/Client Setup"
+msgstr "Atur Project/Klien"
+
+msgid "Leave Settings"
+msgstr "Tutup Pengaturan"
+
+msgid "Company Loans"
+msgstr "Pinjaman Perusahaan"
+
+msgid "Audit Log"
+msgstr "Log Audit"
+
+msgid "Employees"
+msgstr "Karyawan"
+
+msgid "Employee History"
+msgstr "Histori Karyawan"
+
+msgid "Document Management"
+msgstr "Pengaturan Dokumen"
+
+msgid "Travel Administration"
+msgstr "Administrasi Perjalanan"
+
+msgid "Expense Administration"
+msgstr "Administrasi Pengeluaran"
+
+msgid "Monitor Attendance"
+msgstr "Monitor Absensi"
+
+msgid "Performance Charts"
+msgstr "Grafik Performance"
+
+msgid "Overtime Administration"
+msgstr "Administrasi Lembur"
+
+msgid "Admin Reports"
+msgstr "Laporan Admin"
+
+msgid "Reports"
+msgstr "Laporan"
+
+msgid "Report Files"
+msgstr "File Laporan"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Users"
+msgstr "Pengguna"
+
+msgid "Manage Modules"
+msgstr "Atur Modul"
+
+msgid "Manage Permissions"
+msgstr "Atur Ijin Akses"
+
+msgid "Upgrade"
+msgstr "Upgrade"
+
+msgid "Manage Metadata"
+msgstr "Atur Metadata"
+
+msgid "Field Names Setup"
+msgstr "Atur Nama Kolom"
+
+msgid "Payroll"
+msgstr "Penggajian"
+
+msgid "Salary"
+msgstr "Gaji"
+
+msgid "Payroll Reports"
+msgstr "Laporan Penggajian"
+
+msgid "Recruitment"
+msgstr "Rekrutmen"
+
+msgid "Recruitment Setup"
+msgstr "Atur Rekrutmen"
+
+msgid "Job Positions"
+msgstr "Posisi Pekerjaan"
+
+msgid "Personal Information"
+msgstr "Informasi Pribadi"
+
+msgid "Basic Information"
+msgstr "Informasi Dasar"
+
+msgid "Qualifications"
+msgstr "Kualifikasi"
+
+msgid "Dependents"
+msgstr "Tanggungan"
+
+msgid "Emergency Contacts"
+msgstr "Kontak Darurat"
+
+msgid "Leave"
+msgstr "Tutup"
+
+msgid "Leave Management"
+msgstr "Tutup Pengaturan"
+
+msgid "Time Management"
+msgstr "Pengaturan Jam Kerja"
+
+msgid "Projects"
+msgstr "Project"
+
+msgid "Attendance"
+msgstr "Kehadiran"
+
+msgid "Time Sheets"
+msgstr "Lembar Jam Kerja"
+
+msgid "Attendance Sheets"
+msgstr "Lembar Kehadiran"
+
+msgid "Overtime Requests"
+msgstr "Permintaan Lembur"
+
+msgid "Documents"
+msgstr "Dokumen"
+
+msgid "My Documents"
+msgstr "Dokumen"
+
+msgid "Company"
+msgstr "Perusahaan"
+
+msgid "Staff Directory"
+msgstr "Direktori Staf"
+
+msgid "Training"
+msgstr "Pelatihan"
+
+msgid "Travel Management"
+msgstr "Pengaturan Perjalanan"
+
+msgid "Travel"
+msgstr "Perjalanan"
+
+msgid "Finance"
+msgstr "Keuangan"
+
+msgid "Expenses"
+msgstr "Pengeluaran"
+
+msgid "Loans"
+msgstr "Pinjaman"
+
+msgid "User Reports"
+msgstr "Laporan Pengguna"
+
+msgid "People"
+msgstr "Karyawan"
+
+msgid "Manage"
+msgstr "Atur"
+
+msgid "Departments"
+msgstr "Perusahaan"
+
+msgid "Active Projects"
+msgstr "Project Aktif"
+
+msgid "Update Clients/Projects"
+msgstr "Perbarui Klient/Project"
+
+msgid "Entries Last Week"
+msgstr "Data Minggu Lalu"
+
+msgid "Upcoming"
+msgstr "Yang Akan Datang"
+
+msgid "View / Download Reports"
+msgstr "Lihat / Unduh Laporan"
+
+msgid "Generate a Report"
+msgstr "Keluarkan Laporan"
+
+msgid "Configure"
+msgstr "Konfigurasikan"
+
+msgid "Update"
+msgstr "Perbarui"
+
+msgid "Applicants"
+msgstr "Pelamar"
+
+msgid "Active Jobs"
+msgstr "Pekerjaan Yang Aktif"
+
+msgid "Jobs Posted"
+msgstr "Pekerjaan Yang Dipasang"
+
+msgid "Jobs"
+msgstr "Pekerjaan"
+
+msgid "Courses"
+msgstr "Kursus"
+
+msgid "Requests"
+msgstr "Pengajuan"
+
+msgid "Document"
+msgstr "Dokumen"
+
+msgid "Management"
+msgstr "Pengelolaan"
+
+msgid "Expense"
+msgstr "Pengeluaran"
+
+msgid "Permission"
+msgstr "Ijin Akses"
+
+msgid "Permissions"
+msgstr "Ijin Akses"
+
+msgid "and"
+msgstr "dan"
+
+msgid "Invoices"
+msgstr "Invoice"
+
+msgid "Make a Payment"
+msgstr "Buat Pembayaran"
+
+msgid "Switch Employee"
+msgstr "Ganti Karyawawan"
+
+msgid "Select The Employee to Switch Into"
+msgstr "Pilih Karyawan "
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid "My Profile"
+msgstr "Profil Saya"
+
+msgid "Edit Details"
+msgstr "Ubah Detail"
+
+msgid "View/Edit Profile"
+msgstr "Lihat/Ubah Profil"
+
+msgid "Punch In"
+msgstr "Masuk"
+
+msgid "or"
+msgstr "atau"
+
+msgid "Punch Out"
+msgstr "Keluar"
+
+msgid "Record Attendance"
+msgstr "Rekam Kehadiran"
+
+msgid "Pending Leaves"
+msgstr "Abseni Tertunda"
+
+msgid "Check Leave Status"
+msgstr "Check Status Absensi"
+
+msgid "Hours worked Last Week"
+msgstr "Jam Kerja Minggu Lalu"
+
+msgid "Update Time Sheet"
+msgstr "Perbarui Lembar Jam Kerja"
+
+msgid "My Projects"
+msgstr "Project Saya"
+
+msgid "Projects Assigned"
+msgstr "Penugasan Project"
+
+msgid "More info"
+msgstr "Info lebih lanjut"
+
+msgid "Store"
+msgstr "Store"
+
+msgid "My Travel"
+msgstr "Perjalanan Saya"
+
+msgid "My Expenses"
+msgstr "Pengeluaran Saya"
+
+msgid "Manage Expenses"
+msgstr "Atur Pengeluaran"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Address"
+msgstr "Alamat"
+
+msgid "Type"
+msgstr "Tipe"
+
+msgid "Country"
+msgstr "Negara"
+
+msgid "Time Zone"
+msgstr "Zona Waktu"
+
+msgid "Parent Structure"
+msgstr "Struktur Induk"
+
+msgid "Details"
+msgstr "Keterangan"
+
+msgid "Heads"
+msgstr "Heads"
+
+msgid "Code"
+msgstr "Kode"
+
+msgid "Job Title Code"
+msgstr "Kode Nama Pekerjaan"
+
+msgid "Job Title"
+msgstr "Nama Pekerjaan"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Specification"
+msgstr "Spesifikasi"
+
+msgid "Currency"
+msgstr "Mata Uang"
+
+msgid "Min Salary"
+msgstr "Gaji Min"
+
+msgid "Max Salary"
+msgstr "Gaji Maks"
+
+msgid "Pay Grade Name"
+msgstr "Nama Level Gaji"
+
+msgid "Employment Status"
+msgstr "Status Karyawan"
+
+msgid "Coordinator"
+msgstr "Kordinator"
+
+msgid "Trainer"
+msgstr "Pelatih/Trainer"
+
+msgid "Trainer Details"
+msgstr "Detail Pelatih/Trainer"
+
+msgid "Payment Type"
+msgstr "Tipe Pembayaran"
+
+msgid "Cost"
+msgstr "Biaya"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Course"
+msgstr "Kursus"
+
+msgid "Scheduled Time"
+msgstr "Jam Terjadwal"
+
+msgid "Assignment Due Date"
+msgstr "Akhir Penugasan"
+
+msgid "Delivery Method"
+msgstr "Metode Pengiriman"
+
+msgid "Delivery Location"
+msgstr "Lokasi Pengiriman"
+
+msgid "Attendance Type"
+msgstr "Tipe Kehadiran"
+
+msgid "Attachment"
+msgstr "Lampiran"
+
+msgid "Training Certificate Required"
+msgstr "Dibutuhkan Sertifikat Pelatihan"
+
+msgid "Employee"
+msgstr "Karyawan"
+
+msgid "Training Session"
+msgstr "Sesi Pelatihan"
+
+msgid "Contact Number"
+msgstr "Nomor Kontak"
+
+msgid "Contact Email"
+msgstr "Email Kontak"
+
+msgid "Company Url"
+msgstr "Url Perusahaan"
+
+msgid "First Contact Date"
+msgstr "Tanggal Kontak Pertama Kali"
+
+msgid "Client"
+msgstr "Klien"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Leave Name"
+msgstr "Nama/Jenis Cuti"
+
+msgid "Leave Accrue Enabled"
+msgstr "Aktifkan Tambahan Cuti"
+
+msgid "Leave Carried Forward"
+msgstr "Transfer-Cuti"
+
+msgid "Leaves Per Year"
+msgstr "Cuti Per Tahun"
+
+msgid "Leaves Group"
+msgstr "Grup Cuti/Ijin"
+
+msgid "Leaves Per Leave Period"
+msgstr "Cuti Per Periode Cuti"
+
+msgid "Admin can assign leave to employees"
+msgstr "Admin bisa menentukan cuti ke karyawan"
+
+msgid "Employees can apply for this leave type"
+msgstr "Karyawan bisa mendapatkan jenis cuti ini"
+
+msgid "Employees can apply beyond the current leave balance"
+msgstr "karyawan bisa mendapatkan cuti melebihi jumlah cuti saat ini"
+
+msgid "Percentage of Leaves Carried Forward"
+msgstr "Persentase Transfer-Cuti"
+
+msgid "Maximum Carried Forward Amount"
+msgstr "Jumlah Maksimum Transfer-Cuti"
+
+msgid "Carried Forward Leave Availability Period"
+msgstr "Periode Ketersediaan Transfer-Cuti"
+
+msgid "Proportionate leaves on Joined Date"
+msgstr "Proportionate leaves on Joined Date"
+
+msgid "Send Notification Emails"
+msgstr "Kirim Email Pemberitahuan"
+
+msgid "Leave Group"
+msgstr "Grup Cuti"
+
+msgid "Leave Color"
+msgstr "Warna Cuti"
+
+msgid "Period Start"
+msgstr "Permulaan Periode"
+
+msgid "Period End"
+msgstr "Akhir Masa Periode"
+
+msgid "Day"
+msgstr "Hari"
+
+msgid "For All Countries"
+msgstr "Untuk Semua Negara"
+
+msgid "Date"
+msgstr "Tanggal"
+
+msgid "Leave Type"
+msgstr "Jenis Cuti"
+
+msgid "Propotionate leaves on Joined Date"
+msgstr "Propotionate leaves on Joined Date"
+
+msgid "Leaves Period"
+msgstr "Periode Cuti"
+
+msgid "Leave Amount"
+msgstr "Jumlah Cuti"
+
+msgid "Leave Period"
+msgstr "Periode Cuti"
+
+msgid "Note"
+msgstr "Catatan"
+
+msgid "All Employees"
+msgstr "Daftar Karyawan"
+
+msgid "All Leave Types"
+msgstr "Daftar Tipe Cuti"
+
+msgid "Loan Type"
+msgstr "Tipe Pinjaman"
+
+msgid "Loan Start Date"
+msgstr "Tanggal Mulai Pinjaan"
+
+msgid "Loan Period (Months)"
+msgstr "Periode Pinjaman (Bulan)"
+
+msgid "Amount"
+msgstr "Jumlah"
+
+msgid "Last Installment Date"
+msgstr "Tanggal Cicilan Terakhir"
+
+msgid "Loan Amount"
+msgstr "Jumlah Pinjaman"
+
+msgid "Monthly Installment"
+msgstr "Cicilan Tiap Bulan"
+
+msgid "Employee Number"
+msgstr "Nomor Karyawan"
+
+msgid "First Name"
+msgstr "Nama Depan"
+
+msgid "Middle Name"
+msgstr "Nama Tengah"
+
+msgid "Last Name"
+msgstr "Nama Belakang"
+
+msgid "Nationality"
+msgstr "Kebangsaan"
+
+msgid "Date of Birth"
+msgstr "Tanggal Lahir"
+
+msgid "Gender"
+msgstr "Jenis Kelamin"
+
+msgid "Marital Status"
+msgstr "Status Perkawinan"
+
+msgid "Ethnicity"
+msgstr "Suku"
+
+msgid "Immigration Status"
+msgstr "Status Imigrasi"
+
+msgid "SSN/NRIC"
+msgstr "No. KTP"
+
+msgid "NIC"
+msgstr "Nomor Asuransi"
+
+msgid "Other ID"
+msgstr "ID Lainnya"
+
+msgid "Driving License No"
+msgstr "No SIM"
+
+msgid "Pay Grade"
+msgstr "Level Gaji"
+
+msgid "Work Station Id"
+msgstr "Id Lokasi Kerja"
+
+msgid "Address Line 1"
+msgstr "Alamat Baris 1"
+
+msgid "Address Line 2"
+msgstr "Alamat Baris 2"
+
+msgid "City"
+msgstr "Kota"
+
+msgid "Province"
+msgstr "Provinsi"
+
+msgid "Postal/Zip Code"
+msgstr "Kode Pos"
+
+msgid "Home Phone"
+msgstr "Telp. Rumah"
+
+msgid "Mobile Phone"
+msgstr "Telp. Seluler"
+
+msgid "Work Phone"
+msgstr "Telp. Kantor"
+
+msgid "Work Email"
+msgstr "Email Kantor"
+
+msgid "Private Email"
+msgstr "Email Pribadi"
+
+msgid "Joined Date"
+msgstr "Tanggal Bekerja"
+
+msgid "Confirmation Date"
+msgstr "Tanggal Konfirmasi"
+
+msgid "Termination Date"
+msgstr "Tanggal Berhenti"
+
+msgid "Department"
+msgstr "Perusahaan"
+
+msgid "Supervisor"
+msgstr "Pengawas"
+
+msgid "Indirect Supervisors"
+msgstr "Pengawas Tak Langsung"
+
+msgid "First Level Approver"
+msgstr "Persetujuan Level Pertama"
+
+msgid "Second Level Approver"
+msgstr "Persetujuan Level Kedua"
+
+msgid "Third Level Approver"
+msgstr "Persetujuan Level Ketiga"
+
+msgid "Notes"
+msgstr "Catatan"
+
+msgid "Time (GMT)"
+msgstr "Jam (GMT)"
+
+msgid "User"
+msgstr "Pengguna"
+
+msgid "IP Address"
+msgstr "Alamat IP"
+
+msgid "Logged In Employee"
+msgstr "Karyawan Tercatat"
+
+msgid "Skill"
+msgstr "Kemampuan"
+
+msgid "Qualification"
+msgstr "Kualifikasi"
+
+msgid "Institute"
+msgstr "Institusi"
+
+msgid "Start Date"
+msgstr "Tanggal Mulai"
+
+msgid "Completed On"
+msgstr "Selesai Pada"
+
+msgid "Certification"
+msgstr "Sertifikasi"
+
+msgid "Granted On"
+msgstr "Diberikan Pada"
+
+msgid "Valid Thru"
+msgstr "Valid Sampai"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "Reading"
+msgstr "Baca"
+
+msgid "Speaking"
+msgstr "Pengucapan"
+
+msgid "Writing"
+msgstr "Tulis"
+
+msgid "Understanding"
+msgstr "Pemahaman"
+
+msgid "Date Added"
+msgstr "Tanggal Ditambahkan"
+
+msgid "Valid Until"
+msgstr "Valid Sampai"
+
+msgid "Relationship"
+msgstr "Hubungan"
+
+msgid "Id Number"
+msgstr "Nomor Id"
+
+msgid "All Job Titles"
+msgstr "Semua Jenis Pekerjaan"
+
+msgid "All Departments"
+msgstr "Semua Departemen"
+
+msgid "Anyone"
+msgstr "Siapa Saja"
+
+msgid "Field"
+msgstr "Kolom"
+
+msgid "Old Value"
+msgstr "Isian Lama"
+
+msgid "New Value"
+msgstr "Isian Baru"
+
+msgid "Modified By"
+msgstr "Dimodofokasi Oleh"
+
+msgid "Created"
+msgstr "Dibuat"
+
+msgid "Notify Expiry"
+msgstr "Beritahukan Tanggal Selesai"
+
+msgid "Notify Expiry Before One Month"
+msgstr "Beritahukan Tanggal Selesai Sebulan Sebelumnya"
+
+msgid "Notify Expiry Before One Week"
+msgstr "Beritahukan Tanggal Selesai Seminggu Sebelumnya"
+
+msgid "Notify Expiry Before One Day"
+msgstr "Beritahukan Tanggal Selesai Sehari Sebelumnya"
+
+msgid "Travel Type"
+msgstr "Jenis Perjalanan"
+
+msgid "Purpose of Travel"
+msgstr "Tujuan Perjalanan"
+
+msgid "Travel From"
+msgstr "Perjalanan Dari"
+
+msgid "Travel To"
+msgstr "Perjalanan Menuju"
+
+msgid "Travel Date"
+msgstr "Tanggal Perjalanan"
+
+msgid "Return Date"
+msgstr "Tanggal Kembali"
+
+msgid "Total Funding Proposed"
+msgstr "Total Dana Diajukan"
+
+msgid "Itinerary / Cab Receipt"
+msgstr "Struk Akomodasi/Transport"
+
+msgid "Other Attachment 1"
+msgstr "Lampiran Lainnya 1"
+
+msgid "Other Attachment 2"
+msgstr "Lampiran Lainnya 2"
+
+msgid "Payment Method"
+msgstr "Metode Pembayaran"
+
+msgid "Transaction / Ref No"
+msgstr "No Transaksi/Ref"
+
+msgid "Payee"
+msgstr "Penerima"
+
+msgid "Expense Category"
+msgstr "Kategori Pengeluaran"
+
+msgid "Receipt"
+msgstr "Struk"
+
+msgid "Time-In"
+msgstr "Check-In"
+
+msgid "Time-Out"
+msgstr "Check-Out"
+
+msgid "Clocked In Status"
+msgstr "Status Absensi"
+
+msgid "End Date"
+msgstr "Tanggal Berakhir"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Start Time"
+msgstr "Jam Mulai"
+
+msgid "End Time"
+msgstr "Jam Berakhir"
+
+msgid "Leave Status"
+msgstr "Status Cuti"
+
+msgid "Select Client"
+msgstr "Pilih Klien"
+
+msgid "Not Selected"
+msgstr "Tidak Dipilih"
+
+msgid "Or Project"
+msgstr "Atau Project"
+
+msgid "All Projects"
+msgstr "Semua Project"
+
+msgid "All Status"
+msgstr "Semua Status"
+
+msgid "Value"
+msgstr "Nilai"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "User Name"
+msgstr "Nama Pengguna"
+
+msgid "Authentication Email"
+msgstr "Email Otentikasi"
+
+msgid "User Level"
+msgstr "Level Pengguna"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "User Roles"
+msgstr "Jenis Pengguna"
+
+msgid "Default Module"
+msgstr "MOdul Utama"
+
+msgid "No Default Module"
+msgstr "Tanpa Modul Utama"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Group"
+msgstr "Grup"
+
+msgid "Order"
+msgstr "Urutan"
+
+msgid "Path"
+msgstr "Path"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "User Levels"
+msgstr "Level Pengguna"
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "All Modules"
+msgstr "Semua Modul"
+
+msgid "Invoice Period Start"
+msgstr "Awal Berlaku Invoice"
+
+msgid "Invoice Period End"
+msgstr "Akhir Berlaku Invoice"
+
+msgid "Due date"
+msgstr "Jatuh Tempo"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Original Text"
+msgstr "Text Asli"
+
+msgid "Mapped Text"
+msgstr "Text Terpetakan"
+
+msgid "Display Status"
+msgstr "Tampilkan Status"
+
+msgid "Field Type"
+msgstr "Jenis Kolom"
+
+msgid "Field Label"
+msgstr "Label Kolom"
+
+msgid "Validation"
+msgstr "Validasi"
+
+msgid "Field Options"
+msgstr "Opsi Kolom"
+
+msgid "Priority"
+msgstr "Prioritas"
+
+msgid "Display Section"
+msgstr "Tampilkan Seksi"
+
+msgid "Salary Component Type"
+msgstr "Tipe Komponen Gaji"
+
+msgid "Salary Component"
+msgstr "Komponen Gaji"
+
+msgid "Pay Frequency"
+msgstr "Frekuensi Gaji"
+
+msgid "Calculation Group"
+msgstr "Grup Perhitungan"
+
+msgid "None"
+msgstr "Tidak Ada"
+
+msgid "Calculation Exemptions"
+msgstr "Pengecualian Perhitungan"
+
+msgid "Calculations Assigned"
+msgstr "Perhitungan Dibebankan"
+
+msgid "Date Start"
+msgstr "Tanggal Mulai"
+
+msgid "Date End"
+msgstr "Tanggal Akhir"
+
+msgid "Payslip Template"
+msgstr "Template Slip Gaji"
+
+msgid "Payroll Columns"
+msgstr "Kolom Penggajian"
+
+msgid "Calculation Method"
+msgstr "Metode Perhitungan"
+
+msgid "Editable"
+msgstr "Dapat Diubah"
+
+msgid "Enabled"
+msgstr "Diaktifkan"
+
+msgid "Predefined Calculations"
+msgstr "Perhitungan Baku"
+
+msgid "Salary Components"
+msgstr "Komponen Gaji"
+
+msgid "Columns to Add"
+msgstr "Kolom yang akan ditambahkan"
+
+msgid "Columns to Subtract"
+msgstr "Kolom yang akan dikurangi"
+
+msgid "Column Order"
+msgstr "Urutan Kolom"
+
+msgid "Default Value"
+msgstr "Nilai Tetap"
+
+msgid "Calculation Columns"
+msgstr "Kolom Perhitungan"
+
+msgid "Function"
+msgstr "Fungsi"
+
+msgid "Payroll Report Column"
+msgstr "Kolom Laporan Gaji"
+
+msgid "Calculation Process"
+msgstr "Proses Perhitungan"
+
+msgid "Payslip Fields"
+msgstr "Kolom Slip Gaji"
+
+msgid "Payroll Column"
+msgstr "Colom Penggajian"
+
+msgid "Text"
+msgstr "Teks"
+
+msgid "Lower Limit Condition"
+msgstr "Status Batas Bawah"
+
+msgid "Lower Limit"
+msgstr "Batas Bawah"
+
+msgid "Upper Limit Condition"
+msgstr "Status Batas Atas"
+
+msgid "Upper Limit"
+msgstr "Batas Atas"
+
+msgid "Column"
+msgstr "Kolom"
+
+msgid "Job Code"
+msgstr "Kode Pekerjaan"
+
+msgid "Short Description"
+msgstr "Deskripsi pendek"
+
+msgid "Requirements"
+msgstr "Persyaratan"
+
+msgid "Benefits"
+msgstr "Keuntungan"
+
+msgid "Employment Type"
+msgstr "Tipe Karyawan"
+
+msgid "Any Employment Type"
+msgstr "Semua Tipe Karyawan"
+
+msgid "Experience Level"
+msgstr "Tingkat Pengalaman"
+
+msgid "Any Experience Level"
+msgstr "Semua Tingkat Pengalaman"
+
+msgid "Job Function"
+msgstr "Fungsi Pekerjaan"
+
+msgid "Any Job Function"
+msgstr "Semua Fungsi Pekerjaan"
+
+msgid "Education Level"
+msgstr "Tingkat Pendidikan"
+
+msgid "Any Education Level"
+msgstr "Semua Tingkat Pendidikan"
+
+msgid "Show Salary"
+msgstr "Tampilkan Gaji"
+
+msgid "Salary Min"
+msgstr "Gaji Min"
+
+msgid "Salary Max"
+msgstr "Gaji Maks"
+
+msgid "Keywords"
+msgstr "Kata Kunci"
+
+msgid "Closing Date"
+msgstr "Tanggal Ditutup"
+
+msgid "Image"
+msgstr "Gambar"
+
+msgid "Display Type"
+msgstr "Tipe Tampilan"
+
+msgid "Profile Image"
+msgstr "Foto Profil"
+
+msgid "Telephone"
+msgstr "Telp."
+
+msgid "Resume Title"
+msgstr "Judul Lamaran"
+
+msgid "Resume"
+msgstr "Lamaran"
+
+msgid "Resume Headline"
+msgstr "Headline Lamaran"
+
+msgid "Profile Summary"
+msgstr "Ringkasan Profil"
+
+msgid "Work History"
+msgstr "Pengalaman Kerja"
+
+msgid "Education"
+msgstr "Pendidikan"
+
+msgid "Skills"
+msgstr "Kemampuan"
+
+msgid "Referees"
+msgstr "Referensi"
+
+msgid "From Year"
+msgstr "Dari Tahun"
+
+msgid "From Month"
+msgstr "Dari Bulan"
+
+msgid "To Year"
+msgstr "Sampai Tahun"
+
+msgid "To Month"
+msgstr "Sampai Bulan"
+
+msgid "Currently Work Here"
+msgstr "Saat Ini Bekerja Di Sini"
+
+msgid "Degree/Diploma"
+msgstr "Sarjana/Diploma"
+
+msgid "Currently Studying"
+msgstr "Sedang Bersekolah"
+
+msgid "Skill Level"
+msgstr "Tingkat Kemampuan"
+
+msgid "Last Used Year"
+msgstr "Tahun Bekerja Terakhir"
+
+msgid "Last Used Month"
+msgstr "Bulan Bekerja Terakhir"
+
+msgid "Years of Experience"
+msgstr "Tahun Pengalaman"
+
+msgid "Designation"
+msgstr "Penunjukan"
+
+msgid "Phone"
+msgstr "Telp."
+
+msgid "Job"
+msgstr "Pekerjaan"
+
+msgid "Candidate"
+msgstr "Kandidat"
+
+msgid "Referred By"
+msgstr "Direferensikan Oleh"
+
+msgid "Leave Start Date"
+msgstr "Tanggal Mulai Cuti"
+
+msgid "Leave End Date"
+msgstr "Tanggal Selesai Cuti"
+
+msgid "Reason"
+msgstr "Alasan"
+
+msgid "Available Leaves"
+msgstr "Cuti Tersedia"
+
+msgid "Approved Leaves"
+msgstr "Cuti Disetujui"
+
+msgid "Rejected Leaves"
+msgstr "Cuti Ditolak"
+
+msgid "Leaves to be Accrued"
+msgstr "Cuti Ditambahkan"
+
+msgid "Leaves Carried Forward"
+msgstr "Cuti Dipindahkan"
+
+msgid "Apply Leave"
+msgstr "Ajukan Cuti"
+
+msgid "Filter"
+msgstr "Saring"
+
+msgid "Add New"
+msgstr "Tambah Baru"
+
+msgid "Time"
+msgstr "Jam"
+
+msgid "Purpose"
+msgstr "Tujuan"
+
+msgid "From"
+msgstr "Dari"
+
+msgid "To"
+msgstr "Kepada"
+
+msgid "Created (GMT)"
+msgstr "Dibuat (GMT)"
+
+msgid "Download"
+msgstr "Unduh"
+
+msgid "Submit"
+msgstr "Kirim"
+
+msgid "Upload"
+msgstr "Unggah"
+
+msgid "Remove"
+msgstr "Hapus"
+
+msgid "Add"
+msgstr "Tambah"
+
+msgid "Reset"
+msgstr "Setel Ulang"
+
+msgid "Add Time Entry"
+msgstr "Tambah Data Jam"
+
+msgid "Current Clocked In Status"
+msgstr "Status Absensi Saat Ini"
+
+msgid "Attendance entry should be within a single day"
+msgstr "Inputan absensi harus dalam hitungan hari"
+
+msgid "Account Balance"
+msgstr "Saldo Akun"
+
+msgid "Plan"
+msgstr "Perencanaan"
+
+msgid "Transactions"
+msgstr "Transaksi"
+
+msgid "Applications"
+msgstr "Aplikasi"
+
+msgid "Attendance Graph"
+msgstr "Grafik Kehadiran"
+
+msgid "Hours in Office vs Hours Worked Graph"
+msgstr "Jam Kerja vs Jam Kerja di Grafik"
+
+msgid "Company Graph"
+msgstr "Grafik Perusahaan"
+
+msgid "Company Documents"
+msgstr "Dokumen Perusahaan"
+
+msgid "Document Types"
+msgstr "Tipe Dokumen"
+
+msgid "Employee Documents"
+msgstr "Dokumen Karyawan"
+
+msgid "Employee Basic Details"
+msgstr "Detail Dasar Karyawan"
+
+msgid "Employees (Direct Reports)"
+msgstr "Karyawan (Laporan Langsung)"
+
+msgid "Certifications"
+msgstr "Sertifikasi"
+
+msgid "Languages"
+msgstr "Bahasa"
+
+msgid "Deactivated Employees"
+msgstr "Karyawan Non-Aktif"
+
+msgid "Temporarily Deactivated Employees"
+msgstr "Karyawan Non-Aktif Sementara"
+
+msgid "Terminated Employee Data"
+msgstr "Karyawan Keluar"
+
+msgid "Employee Saved Successfully"
+msgstr "Karyawan Berhasil Disimpan"
+
+msgid "Employee needs a User to login to IceHrm. Do you want to create a user for this employee now?"
+msgstr "Karyawan haruslah sebagai pengguna untuk dapat login. Apakah Anda ingin membuat data pengguna untuk karyawan ini?"
+
+msgid "You can do this later through Users module if required."
+msgstr "Anda dapat melakukannya nanti melalui Modul Pengguna jika dibutuhkan."
+
+msgid "Expenses Categories"
+msgstr "Kategori Pengeluaran"
+
+msgid "Payment Methods"
+msgstr "Metode Pembayaran"
+
+msgid "Employee Expenses"
+msgstr "Pengeluaran Karyawan"
+
+msgid "Salary Component Types"
+msgstr "Tipe Komponen Gaji"
+
+msgid "Employee Salary Components"
+msgstr "Komponen Gaji Pegawai"
+
+msgid "Company Payroll"
+msgstr "Payroll Perusahaan"
+
+msgid "Calculation Groups"
+msgstr "Grup Perhitungan"
+
+msgid "Calculation Methods"
+msgstr "Metode Perhitungan"
+
+msgid "Payslip Templates"
+msgstr "Template Slip Gaji"
+
+msgid "Edit Employment Types"
+msgstr "Ubah Tipe Karyawan"
+
+msgid "Edit Experience Levels"
+msgstr "Ubah Level Karyawan"
+
+msgid "Edit Job Functions"
+msgstr "Ubah Fungsi Pekerjaan"
+
+msgid "Edit Education Levels"
+msgstr "Ubah Tingkat Pendidikan"
+
+msgid "Edit Benefits"
+msgstr "Ubah Keuntungan"
+
+msgid "Application"
+msgstr "Lamaran"
+
+msgid "Job Titles"
+msgstr "Judul Pekerjaan"
+
+msgid "Pay Grades"
+msgstr "Level Gaji"
+
+msgid "Training Sessions"
+msgstr "Sesi Pelatihan"
+
+msgid "Employee Training Sessions"
+msgstr "Sesi Pelatihan Karyawan"
+
+msgid "Clients"
+msgstr "Klien"
+
+msgid "Employee Projects"
+msgstr "Project Karyawan"
+
+msgid "Leave Types"
+msgstr "Tipe Cuti"
+
+msgid "Work Week"
+msgstr "Minggu Kerja"
+
+msgid "Holidays"
+msgstr "Hari Libur"
+
+msgid "Leave Rules"
+msgstr "Aturan Cuti"
+
+msgid "Paid Time Off"
+msgstr "Paid Time Off"
+
+msgid "Leave Groups"
+msgstr "Grup Cuti"
+
+msgid "Edit Leave Groups"
+msgstr "Ubah Grup Cuti"
+
+msgid "Leave Group Employees"
+msgstr "Karyawan Grup Cuti"
+
+msgid "Employee Leave List"
+msgstr "Daftar Cuti Karyawan"
+
+msgid "Loan Types"
+msgstr "Tipe Pinjaman"
+
+msgid "Employee Loans"
+msgstr "Pinjaman Karyawan"
+
+msgid "Travel Requests"
+msgstr "Pengajuan Perjalanan"
+
+msgid "Overtime Categories"
+msgstr "Tipe Lembur"
+
+msgid "Leave / PTO"
+msgstr "Cuti / PTO"
+
+msgid "Other"
+msgstr "Lainnya"
+
+msgid "Modules"
+msgstr "Modul"
+
+msgid "Countries"
+msgstr "Negara"
+
+msgid "Provinces"
+msgstr "Provinsi"
+
+msgid "Currency Types"
+msgstr "Tipe Mata Uang"
+
+msgid "Employee Custom Fields"
+msgstr "Kolom Data Karyawan Tambahan"
+
+msgid "Employee Field Names"
+msgstr "Nama Kolom Data Karyawan"
+
+msgid "My Details"
+msgstr "Detail Saya"
+
+msgid "All My Leaves"
+msgstr "Semua Cuti/Ijin Saya"
+
+msgid "Leave Entitlement"
+msgstr "Hak Cuti"
+
+msgid "Approved Leave"
+msgstr "Cuti Disetujui"
+
+msgid "Pending Leave"
+msgstr "Cuti Tertunda"
+
+msgid "Subordinate Leave"
+msgstr "Cuti Bawahan"
+
+msgid "Cancellation Requests"
+msgstr "Pengajuan Pembatalan"
+
+msgid "Approval Requests"
+msgstr "Pengajuan Persetujuan"
+
+msgid "Approved TimeSheets"
+msgstr "Lembar Jam Kerja Disetujui"
+
+msgid "All My TimeSheets"
+msgstr "Semua Lembar Jam Kerja Saya"
+
+msgid "Pending TimeSheets"
+msgstr "Lembar Jam Kerja Tertunda"
+
+msgid "Subordinate TimeSheets"
+msgstr "Lembar Jam Kerja Bawahan"
+
+msgid "Approved Attendance Sheets"
+msgstr "Lembar Kehadiran Disetujui"
+
+msgid "All My Attendance Sheets"
+msgstr "Semua Lembar Kehadiran Saya"
+
+msgid "Pending Attendance Sheets"
+msgstr "Lembar Kehadiran Tertunda"
+
+msgid "Subordinate Attendance Sheets"
+msgstr "Lembar Kehadiran Bawahan"
+
+msgid "Subordinate Overtime Requests"
+msgstr "Pengajuan Lembur Bawahan"
+
+msgid "Overtime Request Approval"
+msgstr "Persetujuan Permintaan Lembur"
+
+msgid "My Training Sessions"
+msgstr "Sesi Pelatihan Saya"
+
+msgid "All Training Sessions"
+msgstr "Semua Sesi Pelatihan"
+
+msgid "Training Sessions of Direct Reports"
+msgstr "Sesi Pelatihan Laporan Langsung"
+
+msgid "Subordinate Travel Requests"
+msgstr "Pengajuan Perjalanan Bawahan"
+
+msgid "Travel Request Approval"
+msgstr "Persetujuan Pengajuan Perjalanan"
+
+msgid "Subordinate Expenses"
+msgstr "Pengeluaran Bawahan"
+
+msgid "Expenses Approval"
+msgstr "Persetujuan Pengeluaran"
+
+msgid "Loans Taken"
+msgstr "Pinjaman Diambil"
+
+msgid "Change Leave Status"
+msgstr "Ubah Status Cuti/Ijin"
+
+msgid "Status Change Note"
+msgstr "Catatan Pengubahan Status"
+
+msgid "Leave Summary"
+msgstr "Ringkasan Cuti"
+
+msgid "Approved Leave Count"
+msgstr "Jumlah Cuti Disetujui"
+
+msgid "Pending Leave Count"
+msgstr "Jumlah Cuti Tertunda"
+
+msgid "Available Leave Count"
+msgstr "Jumlah Cuti Tersedia"
+
+msgid "Leave Dates"
+msgstr "Tanggal Cuti"
+
+msgid "Leave Date"
+msgstr "Tanggal Cuti"
+
+msgid "Leave Notes"
+msgstr "Catatan Cuti"
+
+msgid "Apply"
+msgstr "Ajukan"
+
+msgid "Back"
+msgstr "Kembali"
+
+msgid "Hours in Time Sheets"
+msgstr "Jam di Lembar Jam Kerja"
+
+msgid "HR form"
+msgstr "Form HR"
+
+msgid "HR Form Management"
+msgstr "Pengaturan Form HR"
+
+msgid "Form Name"
+msgstr "Nama Form"
+
+msgid "Fields"
+msgstr "Kolom"
+
+msgid "Employee Froms"
+msgstr "Asal Karyawan"
+
+msgid "Share Departments"
+msgstr "Pembagian Perusahaan"
+
+msgid "Share Employees"
+msgstr "Pembagian Karyawan"
+
+msgid "Data Importers"
+msgstr "Pengimpor Data"
+
+msgid "Data Import Files"
+msgstr "Berkas Pengimpor Data"
+
+msgid "Data Type"
+msgstr "Tipe Data"
+
+msgid "Columns"
+msgstr "Kolom"
+
+msgid "Field Title"
+msgstr "Judul Kolom"
+
+msgid "Depends On"
+msgstr "Bergantung Pada"
+
+msgid "Depends On Field"
+msgstr "Bergantung Pada Kolom"
+
+msgid "is Key Field"
+msgstr "adalah Kolom Utama"
+
+msgid "is ID Field"
+msgstr "adalah Kolom ID"
+
+msgid "Data Import Definitions"
+msgstr "Definisi Impor Data"
+
+msgid "File to Import"
+msgstr "Berkas Yang Diimpor"
+
+msgid "Last Export Results"
+msgstr "Hasil Impor Terakhir"
+
+msgid "Time and Attendance"
+msgstr "Jam dan Kehadiran"
+
+msgid "Leave Timeline"
+msgstr "Timeline Cuti"
+
+msgid "Insights"
+msgstr "Insights"
+
+msgid "Api Access"
+msgstr "Akses Api"
+
+msgid "Change User Password"
+msgstr "Ubah Kata Sandi Pengguna"
+
+msgid "New Password"
+msgstr "Kata Sandi Baru"
+
+msgid "Confirm Password"
+msgstr "Ketik Ulang Kata Sandi"
+
+msgid "Change Password"
+msgstr "Ubah Kata Sandi"
+
+msgid "Not Now"
+msgstr "Jangan Sekarang"
+
+msgid "Contact Information"
+msgstr "Informasi Kontak"
+
+msgid "Job Details"
+msgstr "Detail Pekerjaan"
+
+msgid "Edit Info"
+msgstr "Ubah Info"
+
+msgid "Upload Profile Image"
+msgstr "Unggah Foto Profil"
+
+msgid "Delete Profile Image"
+msgstr "Hapus Foto Profil"
+
+msgid "Direct Reports"
+msgstr "Laporan Langsung"
+
+msgid "Other Details"
+msgstr "Detail Lainnya"
+
+msgid "Family"
+msgstr "Keluarga"
+
+msgid "Custom Fields"
+msgstr "Kolom Tambahan"
+
+msgid "Means of Transportation"
+msgstr "Alat Transportasi"
+
+msgid "Plane"
+msgstr "Pesawat"
+
+msgid "Rail"
+msgstr "Kereta Api"
+
+msgid "Taxi"
+msgstr "Taksi"
+
+msgid "Own Vehicle"
+msgstr "Kendaraan Pribadi"
+
+msgid "Rented Vehicle"
+msgstr "Kendaraan Sewa"
+
+msgid "Female"
+msgstr "Perempuan"
+
+msgid "Male"
+msgstr "Laki-laki"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Inactive"
+msgstr "Non-Aktif"
+
+msgid "Draft"
+msgstr "Konsep"
+
+msgid "Not Clocked In"
+msgstr "Tidak Masuk"
+
+msgid "Clocked In"
+msgstr "Masuk"
+
+msgid "File"
+msgstr "Berkas"
+
+msgid "Active Employee Report"
+msgstr "Laporan  Karyawan Aktif"
+
+msgid "Employee Attendance Report"
+msgstr "Laporan Kehadiran Karyawan"
+
+msgid "Employee Details Report"
+msgstr "Laporan Detail Karyawan"
+
+msgid "Employee Leave Entitlement"
+msgstr "Hak Cuti Karyawan"
+
+msgid "Employee Leaves Report"
+msgstr "Laporan Cuti Karyawan"
+
+msgid "Employee Time Entry Report"
+msgstr "Laporan Jam Masuk Karyawan"
+
+msgid "Employee Time Sheet Report"
+msgstr "Laporan Lembar Jam Kerja Karyawan"
+
+msgid "Employee Time Tracking Report"
+msgstr "Laporan Jam Kerja Karyawan"
+
+msgid "Expense Report"
+msgstr "Laporan Pengeluaran"
+
+msgid "New Hires Employee Report"
+msgstr "Laporan Perekrutan Karyawan Baru"
+
+msgid "Overtime Report"
+msgstr "Laporan Lembur"
+
+msgid "Overtime Request Report"
+msgstr "Laporan Pengajuan Lembur"
+
+msgid "Overtime Summary Report"
+msgstr "Laporan Hasil Lembur"
+
+msgid "Payroll Meta Data Export"
+msgstr "Ekspor Meta Data Penggajian"
+
+msgid "Terminated Employee Report"
+msgstr "Laporan Karyawan Keluar"
+
+msgid "Travel Request Report"
+msgstr "Laporan Pengajuan Perjalanan"
+
+msgid "Attendance Report"
+msgstr "Laporan Kehadiran"
+
+msgid "Client Project Time Report"
+msgstr "Laporan Masa Project Klien"
+
+msgid "Download Payslips"
+msgstr "Unduh Slip Gaji"
+
+msgid "Leaves Report"
+msgstr "Laporan Cuti/Ijin"
+
+msgid "Time Entry Report"
+msgstr "Laporan Jam Masuk"
+
+msgid "Time Sheet Report"
+msgstr "Laporan Lembar Jam Kerja"
+
+msgid "Time Tracking Report"
+msgstr "Laporan Jam Kerja"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Processed"
+msgstr "Diproses"
+
+msgid "Not Processed"
+msgstr "Tidak Diproses"
+
+msgid "Elementary Proficiency"
+msgstr "Pemula"
+
+msgid "Limited Working Proficiency"
+msgstr "Terbatas"
+
+msgid "Professional Working Proficiency"
+msgstr "Mahir"
+
+msgid "Full Professional Proficiency"
+msgstr "Sangat Mahir"
+
+msgid "Native or Bilingual Proficiency"
+msgstr "Bahasa Asli"
+
+msgid "Pending"
+msgstr "Tertunda"
+
+msgid "Approved"
+msgstr "Disetujui"
+
+msgid "Rejected"
+msgstr "Ditolak"
+
+msgid "Cancelled"
+msgstr "Dibatalkan"
+
+msgid "Continue"
+msgstr "Lanjutkan"
+
+msgid "Cancellation Requested"
+msgstr "Pembatalan Telah Diajukan"
+
+msgid "Completed"
+msgstr "Selesai"
+
+msgid "Discussions"
+msgstr "Diskusi"
+
+msgid "Load More"
+msgstr "Muat Lebih"
+
+msgid "Show More"
+msgstr "Tampilkan Lebih"
+
+msgid "Show Less"
+msgstr "Tampilkan Lebih Sedikit"
+
+msgid "Publish"
+msgstr "Terbitkan"
+
+msgid "Announcements"
+msgstr "Pengumuman"
+
+msgid "Send"
+msgstr "Kirim"
+
+msgid "Display"
+msgstr "Tampilan"
+
+msgid "Public"
+msgstr "Public"
+
+msgid "View Announcements"
+msgstr "Lihat Pengumuman"
+
+msgid "Conversations"
+msgstr "Percakapan"
+
+msgid "Start Now"
+msgstr "Mulai Sekarang"
