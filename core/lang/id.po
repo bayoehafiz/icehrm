@@ -972,10 +972,10 @@ msgid "Original Text"
 msgstr "Text Asli"
 
 msgid "Mapped Text"
-msgstr "Text Terpetakan"
+msgstr "Text Yang Ditampilkan"
 
 msgid "Display Status"
-msgstr "Tampilkan Status"
+msgstr "Status Tampilan"
 
 msgid "Field Type"
 msgstr "Jenis Kolom"
