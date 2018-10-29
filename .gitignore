@@ -1,0 +1,4 @@
+.DS_Store
+.vscode
+
+core/lib/composer/vendor/
