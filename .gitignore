@@ -2,3 +2,4 @@
 .vscode
 
 core/lib/composer/vendor/
+app/config.php
