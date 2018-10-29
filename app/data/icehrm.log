@@ -97,3 +97,7 @@ Stack trace:
 [2018-10-29 17:11:53] Ice Hrm.ERROR: Custom:[] [] []
 [2018-10-29 17:12:10] Ice Hrm.ERROR: Custom:[] [] []
 [2018-10-29 17:12:27] Ice Hrm.ERROR: Custom:[] [] []
+[2018-10-29 19:48:29] Ice Hrm.INFO: file size =4027 [] []
+[2018-10-29 19:48:29] Ice Hrm.INFO: file size limit =10485760 [] []
+[2018-10-29 19:48:29] Ice Hrm.INFO: |||||app [] []
+[2018-10-29 19:48:32] Ice Hrm.ERROR: Custom:[] [] []
