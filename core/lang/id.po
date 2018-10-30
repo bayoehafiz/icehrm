@@ -1071,7 +1071,7 @@ msgid "Payslip Fields"
 msgstr "Kolom Slip Gaji"
 
 msgid "Payroll Column"
-msgstr "Colom Penggajian"
+msgstr "Kolom Penggajian"
 
 msgid "Text"
 msgstr "Teks"
@@ -1743,7 +1743,7 @@ msgid "Inactive"
 msgstr "Non-Aktif"
 
 msgid "Draft"
-msgstr "Konsep"
+msgstr "Rancangan"
 
 msgid "Not Clocked In"
 msgstr "Tidak Masuk"
